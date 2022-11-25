@@ -11,12 +11,13 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `මං ඉන්නෝ බොසාහ්😎
+මොනවෙයි වෙන්නෝන මගෙන්😉
+use these buttons 👇` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
+global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
@@ -61,20 +62,20 @@ global.premium = ['+94750463337'] //ur premium numbers
 //other
 global.sessionName = 'session'
 global.antitags = false
-global.prefa = ['👉','!','.','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
+global.prefa = ['','!','.','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '💠'
 global.mess = {
-    success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
-    botAdmin: 'Bot wants to be an Admin😥',
+    success: 'වැඩේ හරි 😁✅',
+    admin: 'ඕක Admin only සහෝ💔',
+    botAdmin: 'Bot admin කෙනෙක් කරන්නෝන ඕක පාවිච්චි කරන්න නම්💔😥',
     owner: 'Only Owner can use this!😉',
-    group: 'Feature Used Only For Groups!',
-    private: 'This Features Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    group: 'ඔය Feature එක Group වලට විතරයි bng😶',
+    private: 'ඔය Features එක Private Chat වලදි විතරයි වැඩ කරන්නෙ💔😶',
+    bot: 'Bot account එකට විතරයි බන් ඒක😝',
+    wait: '👉👈තත්පරයක් දෙන්න අපි වෙලාව බලල ඉමු 😁...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    linkm: 'Where is the link?',
+    linkm: 'link එක දාපම්කෝ 🤕',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban',
     badwords: '*🚫Bad Words Not Allowed Here !*\n\n⚠️ Warning... ⚠️',

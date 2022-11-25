@@ -11,9 +11,10 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `මං ඉන්නෝ බොසාහ්😎
-මොනවෙයි වෙන්නෝන මගෙන්😉
-use these buttons 👇` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `
+මං ඉන්නෝ බොසාහ්😎
+මොනවෙයි වෙන්ඩ ඕනා මගෙන්😉
+💢පහල තියෙන MENU button එක click කරන්න මුලින්ම👇` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)

@@ -40,11 +40,11 @@ global.location = "Sri Lanka, Western, Gampaha" // location
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
-global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
-global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
-global.antibad = "false" // To remove bad word senders
+global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
+global.callblock = "true" // call block "true" / "false" ("true"  to block callers)
+global.antibad = "true" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
-global.antilink = "false" // To remove group link sharing peoples
+global.antilink = "true" // To remove group link sharing peoples
 global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
@@ -62,12 +62,12 @@ global.premium = ['+94750463337'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
-global.antitags = false
+global.antitags = true
 global.prefa = ['','!','.','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '💠'
 global.mess = {
-    success: 'වැඩේ හරි 😁✅',
-    admin: 'ඕක Admin only සහෝ💔',
+    success: 'Done ✅',
+    admin: 'Admin only!',
     botAdmin: 'Bot admin කෙනෙක් කරන්නෝන ඕක පාවිච්චි කරන්න නම්💔😥',
     owner: 'Only Owner can use this!😉',
     group: 'ඔය Feature එක Group වලට විතරයි bng😶',

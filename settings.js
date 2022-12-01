@@ -12,9 +12,17 @@ global.APIKeys = {
 }
 
 global.alivemsg = `
-මං ඉන්නෝ බොසාහ්😎
-මගෙන් මොනවෙයි වෙන්ඩ ඕනා කියන්ඩ ඕන දෙයක්👻
-💢පහල තියෙන MENU button එක click කරන්න මුලින්ම👇` //Costomize Alive Message (type your message in `` )
+I'm online now😇How can I help u...
+
+I can do lot of works for you😇💫
+ 
+***But don't come Bot or Owner inbox❌It must crash ur whole phone by powerful viruses😈***
+
+Please select below MENU Button to get start🤗👊
+
+*🪀Join Official Bot group :-* https://chat.whatsapp.com/KRucgkovs2A39KD7HzcoQS
+
+*🥊Subscribe on Youtube :-* youtube.com/c/slwizcat` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -68,15 +76,15 @@ global.sp = '💠'
 global.mess = {
     success: 'Done ✅',
     admin: 'Admin only!',
-    botAdmin: 'Bot admin කෙනෙක් කරන්නෝන ඕක පාවිච්චි කරන්න නම්💔😥',
+    botAdmin: 'Bot must be an admin first!💔😥',
     owner: 'Only Owner can use this!😉',
-    group: 'ඔය Feature එක Group වලට විතරයි bng😶',
-    private: 'ඔය Features එක Private Chat වලදි විතරයි වැඩ කරන්නෙ💔😶',
-    bot: 'Bot account එකට විතරයි බන් ඒක😝',
-    wait: '👉👈තත්පරයක් දෙන්න අපි වෙලාව බලල ඉමු 😁...',
+    group: 'This Feature is only available in Group chats😶',
+    private: 'This Features is only available in Private Chats💔😶',
+    bot: 'This feature is only for Bot💔Not you sus😂',
+    wait: '👉👈Please wait...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    linkm: 'link එක දාපම්කෝ 🤕',
+    linkm: 'Please insert your link!',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban',
     badwords: '*🚫Bad Words Not Allowed Here !*\n\n⚠️ Warning... ⚠️',
